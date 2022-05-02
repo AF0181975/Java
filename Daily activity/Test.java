@@ -1,6 +1,6 @@
 class Test
 {
-static int a=1;
+int a=1;
 Test()
 {
 a++;
