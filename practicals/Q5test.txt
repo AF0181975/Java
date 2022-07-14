@@ -1,0 +1,107 @@
+                                                          
+Q1:
+Ans:
+D. His goal cannot be achieved.
+Q2:
+Ans:
+A. If line 1 and line 2 are commented, then class SubClass will compile.
+C. If line 2 is commented, then class SubClass will compile.
+Q3:
+Ans:
+D. The program displays "300" followed by "200" as an output
+Q4:
+Ans:
+D. The program displays "display() method of X1 class" followed by "display() method of X2 class"
+followed by "display() method of X3 class" as an output.
+Q5:
+Ans:
+A. The program generates a compile?time error
+Q6:
+Ans:
+D. Program TestByte1 generates a compile?time error.
+Q7:
+Ans:
+C. The program runs successfully and displays output as "Default constructor in Test1 class".
+Q8:
+Ans:
+C. Program generates a compile?time error.
+Q9:
+Ans:…
+D. Program displays "0" followed by "7" as an output.
+Q10:
+Ans:
+E.    All statements at //1, //2, //3, and //4 are valid
+Q11:
+Ans:
+A. Program generates compile?time error.
+Q12:
+Ans:
+C. Program compiles successfully if statement at //1 and //2 are commented.
+Q13:
+Ans:
+C.    Program displays "617" as an output.
+Q14:
+Ans:
+B. non static doMethod1 in Base class
+static doMethod2 in Base class
+non static doMethod1 in Sub class
+static doMethod2 in Base class
+Q15:
+Ans:
+A. Statements at //4 and //6 are invalid statements.
+Q16:
+Ans:
+A.    System.out.println(this.objABC.str);
+B.    System.out.println(objABC.str);
+Q17:
+Ans:
+C. It displays "Kogent Solution Inc" as an output.
+Q18:
+Ans:
+A. The program displays "200" followed by "100" as an output
+Q19:
+Ans:
+A. The program displays "Y.str1 X.str2 X.str1 X.str2" as an output.
+Q20:
+Ans:
+B. Program displays "MyClass1" followed by "MyClass2" followed by "MyClass3" as an output.
+Q21:
+Ans:
+D. Program generates compile?time error.
+Q22:
+Ans:
+D. program generates compile?time error
+Q23:
+Ans:
+B. Program displays "Sub.method1" followed by "BaseClass.method2" as an output.
+Q24:
+Ans:
+C. Program displays "Getting fruit" followed by "Apple" as an output.
+Q25:
+Ans:
+B. Program displays "3" followed by ", side  360 degree : Rectangle" as an output
+Q26;
+Ans:
+A. Program generates compile?time error
+Q27:
+Ans:
+A. Program displays "A.doSomething1" followed by "B.doSomething2" as an output
+Q28:
+Ans:
+C. Program generates compile?time error
+Q29:
+Ans:
+D. It displays "Base class" followed by "Sub class" followed by "20" followed by "20" as an output.
+Q30:
+Ans:
+E. Program displays "800" as an outpu
+Q31:
+Ans:
+A. The program generates compile?time error because a final class cannot be inherited
+Q32:
+Ans:
+D. The program generates compile?time error.
+Q33:
+Ans:
+C. The program generates runtime exception.
+
