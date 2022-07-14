@@ -1,0 +1,138 @@
+Q1:
+Ans:
+A. Queue< MyClass> coll = new LinkedList< MyClass>
+Q2:
+Ans:
+A. The program will display the output as:
+Before traversal through an iterator:[1, 2, 3, 4, 5]
+After traversal through an iterator:[1, 2, 3, 4]
+Q3:
+Ans:
+B. The program will display the output as:
+[M, O, Q]
+Q4:
+Ans:
+C. List<Number> linkedObj = new LinkedList<Number>();
+D. LinkedList<Integer> linkedObj = new LinkedList();
+Q5:
+Ans:
+B. The program will display the output as:15.
+Q6:
+Ans:
+B. The program will display the output as:
+false
+true
+Q7:
+Ans:
+A. Insert the statement as:
+import java.util.*; 
+Before the line marked as 1. 
+C.     Replace the statement given at the line marked as 4 with the statement as:
+java.util.Vector <Integer> v = new java.util.Vector<Integer>(); 
+Q8:
+Ans:
+A. The program will display the output as:
+[a, b, c][a, b, c]
+Q9:
+Ans:
+D. The program will give compilation error
+Q10:
+Ans:
+A. The program will give a warning, but display
+the output as:
+[10, 11, mona, true]
+[10, 11, mona, true]
+Q11:
+Ans:
+A. The program will give a warning during compilation, but display the output as:
+[I, You, We]
+Q12:
+Ans:
+B. The program will give a warning, but display
+the output as:
+1=A
+3=C
+{2=B}
+Q13:
+Ans:
+D. The program will give compilation error
+Q14:
+Ans:
+A. The program will give compilation error
+Q15:
+Ans:
+B. The program will display the output as:
+c=cat
+3
+Q16:
+Ans:
+C. The program will give compilation error.
+Q17:
+Ans:
+B. The program compiles successfully and executes without displaying anything as output.
+Q18:
+Ans:
+D. The program compiles successfully and displays The two objects are equal as output.
+Q19:
+Ans:
+A.    return var1; 
+B.    return 0;
+C.    return var1*var1;
+Q20:
+Ans:
+D.    All of the above
+Q21:
+Ans:
+C. 
+public boolean equals(Object t) { 
+ return this == t; 
+} 
+Q 22:
+Ans:
+A. The program compiles successfully and displays Sorted:[Agra, Bombay, Delhi, Tata, Varanasi] as output.
+Q23:
+Ans:
+D. The program compiles successfully but generates runtime exception.
+Q24:
+Ans:
+A. The program compiles successfully and displays true true true true true as output.
+Q25:
+Ans:
+A. The program compiles successfully and displays Java Server Programming as output.
+Q26:
+Ans:
+A. The program compiles successfully and displays Sorted List[Charu, Deepak, Mahtab, Suchita, Vikash] as output
+Q27:
+Ans:
+C. The program compiles successfully and displays 3 as output
+Q28:
+Ans:
+B. The program generates compile time error due to the doInsert() method.  
+Q29:
+Ans:
+A. The program generates compilation error.
+Q30:
+Ans:
+A. The program compiles successfully and displays Sorted Arrays Java Server Programming
+Understanding EJB 3.0 as output.
+Q31:
+Ans:
+D. The program compiles successfully but generates runtime exception.
+Q32:
+Ans:
+D. The program compiles successfully and displays four one three two as output.
+Q33:
+Ans:
+A. If two distinct MyClass objects are considered equal then their data field has same values.
+B. Two distinct MyClass objects may be consider not equal even their data values are same.
+Q34:
+Ans:
+B. The program compiles successfully but generates only runtime exception.
+C. The program compiles successfully and displays only A as output.
+
+
+
+
+
+ 
+
